@@ -19,3 +19,4 @@ Dataset: [Maharashtra Districts – Kaggle](https://www.kaggle.com/datasets/tush
 ## 💡 Closing
 This project demonstrates how <b>Excel and Power BI</b> can be used together to create meaningful visual insights from structured data.  
 It highlights my ability to transform regional datasets into professional dashboards that support data-driven understanding and communication.
+Thank you for checking out this project! Feel free to ⭐ or reach out for feedback and collaboration opportunities.
